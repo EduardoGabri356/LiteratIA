@@ -1,0 +1,1100 @@
+[
+  {
+    "slug": "memorias-postumas-de-bras-cubas",
+    "title": "Memórias Póstumas de Brás Cubas",
+    "author": "Machado de Assis",
+    "authorShortBio": "Joaquim Maria Machado de Assis (1839-1908) é amplamente considerado o maior nome da literatura brasileira. Fundador da Academia Brasileira de Letras, sua obra é dividida em duas fases: a romântica e a realista. A publicação de 'Memórias Póstumas de Brás Cubas' em 1881 inaugura o Realismo no Brasil, caracterizando-se pela digressão narrativa, uso de narrador defunto e não confiável, ironia fina, metalinguagem e uma análise crítica e pessimista da sociedade patriarcal e burguesa do século XIX.",
+    "publicationYear": 1881,
+    "literaryMovement": "Realismo",
+    "historicalContext": "A obra foi publicada no contexto do Segundo Reinado no Brasil, momento marcado pelo declínio da monarquia, pela crise do sistema escravista (antecedendo a Lei Áurea de 1888) e pela consolidação da burguesia urbana no Rio de Janeiro. Machado de Assis desmistifica a elite agroexportadora e burocrática carioca, revelando o parasitismo social, o fisiologismo e a hipocrisia de uma classe dominante que se pretendia liberal, mas sustentava o trabalho escravo.",
+    "generalSummary": "O romance é narrado por Brás Cubas, um 'defunto autor' que, do além-túmulo, decide relatar sua vida sem a necessidade de agradar aos vivos. Nascido em uma família abastada do Rio de Janeiro, Brás passa por uma juventude boêmia e fracassa em todas as suas grandes empreitadas: não se torna um político influente, não publica a invenção científica do 'Emplastro Brás Cubas' e vive um caso adúltero conturbado com Virgília. O livro é uma sucessão de frustrações narradas com humor ácido, culminando no famoso 'saldo negativo' do último capítulo, onde comemora não ter tido filhos e não ter transmitido a nenhuma criatura o legado da nossa miséria.",
+    "keyThemes": [
+      "Pessimismo",
+      "Narrador Defunto",
+      "Hipocrisia Burguesa",
+      "Parasitismo social",
+      "Ironia e Digressão"
+    ],
+    "coverImageUrl": "/assets/covers/bras-cubas.webp",
+    "active": true,
+    "quotesPhase": [
+      {
+        "quoteId": "bc_q1",
+        "quote": "Não tive filhos, não transmiti a nenhuma criatura o legado da nossa miséria.",
+        "context": "Capítulo 160 ('Das negativas'). Brás Cubas faz o balanço final de sua existência no momento da morte.",
+        "narrativeVoice": "Brás Cubas (Defunto Autor - 1ª pessoa)",
+        "associationQuestion": "Qual tema central do Realismo machadiano e recurso narrativo estão expressos neste trecho final?",
+        "options": [
+          "O desespero romântico diante da morte e a busca por redenção espiritual.",
+          "O pessimismo radical do narrador-defunto ao encarar a não procriação como uma vitória sobre a dor da existência.",
+          "A crítica científica ao Darwinismo social através da negação da hereditariedade.",
+          "O arrependimento sincero de um homem rico por não ter deixado herdeiros diretos.",
+          "A celebração da vida plena burguesa contida no balanço positivo de seus feitos."
+        ],
+        "correctAnswer": "O pessimismo radical do narrador-defunto ao encarar a não procriação como uma vitória sobre a dor da existência."
+      },
+      {
+        "quoteId": "bc_q2",
+        "quote": "Marcela amava-me durante quinze meses e onze contos de réis; nada menos.",
+        "context": "Capítulo 17 ('A orquestra'). Brás Cubas descreve sua paixão de juventude pela cortesã Marcela.",
+        "narrativeVoice": "Brás Cubas (Defunto Autor - 1ª pessoa)",
+        "associationQuestion": "A frase associa sentimento a um valor monetário. Qual traço do estilo machadiano se evidencia aqui?",
+        "options": [
+          "O sentimentalismo romântico que sublima o amor financeiro.",
+          "A desmistificação do amor romântico pela ironia mercantilista da sociedade burguesa.",
+          "A denúncia direta do determinismo biológico que rege a prostituição.",
+          "A exaltação do pragmatismo econômico das mulheres do Segundo Reinado.",
+          "O tom dramático de uma vítima financeira enganada por sentimentos sinceros."
+        ],
+        "correctAnswer": "A desmistificação do amor romântico pela ironia mercantilista da sociedade burguesa."
+      },
+      {
+        "quoteId": "bc_q3",
+        "quote": "Ao vencedor, as batatas!",
+        "context": "Capítulo 139 ('De como não fui ministro'). Quincas Borba expõe a sua filosofia do Humanitismo a Brás Cubas.",
+        "narrativeVoice": "Quincas Borba (reproduzido por Brás Cubas)",
+        "associationQuestion": "Qual a intenção crítica de Machado de Assis ao formular a paródia filosófica do 'Humanitismo'?",
+        "options": [
+          "Satirizar as doutrinas filosóficas do século XIX (como o Positivismo e o Darwinismo Social) que justificavam a opressão dos mais fracos.",
+          "Defender o altruísmo e a solidariedade como motores da evolução humana.",
+          "Propor um sistema ético e racional rigoroso para ser aplicado na política imperial.",
+          "Elogiar o rigor científico das teorias sociológicas europeias adaptadas ao Brasil.",
+          "Demostrar que a guerra pela sobrevivência sempre conduz à paz e à fartura social."
+        ],
+        "correctAnswer": "Satirizar as doutrinas filosóficas do século XIX (como o Positivismo e o Darwinismo Social) que justificavam a opressão dos mais fracos."
+      }
+    ],
+    "pointAndClickPhase": [
+      {
+        "elementId": "elem_bras_cubas",
+        "name": "Brás Cubas no Leito de Morte",
+        "elementType": "personagem",
+        "coords": {
+          "x": 13.5,
+          "y": 52,
+          "width": 12.5,
+          "height": 14
+        },
+        "narrativeFunction": "Representa a condição sui generis do narrador: um defunto autor (que morreu e decidiu escrever) e não um autor defunto (que escreveu e depois morreu).",
+        "question": {
+          "questionId": "q_bc_1",
+          "statement": "(FUVEST/Adaptada) Em 'Memórias Póstumas de Brás Cubas', a condição de 'defunto autor' assumida pelo narrador confere à narrativa um estatuto especial. Esse recurso permite a Brás Cubas:",
+          "sourceExam": "FUVEST",
+          "examYear": 2021,
+          "options": [
+            {
+              "letter": "A",
+              "text": "Adotar um tom solene e moralizante para corrigir os erros da sociedade carioca."
+            },
+            {
+              "letter": "B",
+              "text": "Narrar seus fracassos com absoluta isenção, livre das convenções sociais e do julgamento dos vivos."
+            },
+            {
+              "letter": "C",
+              "text": "Reinventar sua biografia de forma idealizada, ocultando suas contradições e deslizes morais."
+            },
+            {
+              "letter": "D",
+              "text": "Apresentar uma visão científica e determinista sobre a degradação do corpo humano após a morte."
+            },
+            {
+              "letter": "E",
+              "text": "Comprovar a existência da vida após a morte segundo os dogmas da Igreja Católica."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta porque a posição de 'defunto autor' libera Brás Cubas da necessidade de manter aparências sociais ou agradar aos vivos. Ele pode expor sua podridão moral e a da elite sem medo de retaliação. A alternativa A está errada porque o tom não é moralizante, mas irônico e pessimista; a C está incorreta pois ele expõe (e não oculta) seus deslizes; a D está errada porque a narrativa não foca no determinismo biológico da decomposição; a E está errada porque o romance não possui caráter doutrinário ou religioso."
+        }
+      },
+      {
+        "elementId": "elem_emplastro",
+        "name": "O Emplastro Brás Cubas",
+        "elementType": "objeto",
+        "coords": {
+          "x": 6,
+          "y": 56.5,
+          "width": 4.2,
+          "height": 11.5
+        },
+        "narrativeFunction": "Medicamento milagroso idealizado por Brás no fim da vida. Simboliza a busca por glória passageira e a megalomania estéril do protagonista.",
+        "question": {
+          "questionId": "q_bc_2",
+          "statement": "O projeto de invenção do 'Emplastro Brás Cubas' ocupa a mente do protagonista em seus últimos anos de vida. Do ponto de vista da crítica social machadiana, esse remédio representa:",
+          "sourceExam": "UNICAMP",
+          "examYear": 2020,
+          "options": [
+            {
+              "letter": "A",
+              "text": "O genuíno interesse filantrópico de Brás em aliviar a dor da humanidade sofrida."
+            },
+            {
+              "letter": "B",
+              "text": "A obsessão pela 'volúpia do triunfo', ou seja, o desejo egoísta de obter notoriedade e glória sem trabalho produtivo."
+            },
+            {
+              "letter": "C",
+              "text": "A confiança ilimitada no progresso da medicina positivista do século XIX."
+            },
+            {
+              "letter": "D",
+              "text": "A tentativa desesperada de enriquecer após a perda da herança paterna."
+            },
+            {
+              "letter": "E",
+              "text": "Uma metáfora sobre a cura dos males políticos que afligiam o Segundo Reinado."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. Brás Cubas confessa que a ideia do emplastro não visava a cura dos homens, mas ver seu nome impresso nos jornais e nos rótulos (a glória). A e D estão erradas porque Brás nunca foi filantropo nem passou por necessidades financeiras; C está incorreta pois o emplastro é uma ideia fixa sem fundamento científico; E está errada porque o foco é a vaidade pessoal e não uma alegoria direta da cura política."
+        }
+      },
+      {
+        "elementId": "elem_marcela",
+        "name": "Retrato de Marcela",
+        "elementType": "objeto",
+        "coords": {
+          "x": 50.2,
+          "y": 29,
+          "width": 11.6,
+          "height": 27
+        },
+        "narrativeFunction": "Representa a juventude leviana de Brás Cubas, marcada pelo desperdício de dinheiro e pela ilusão do amor romântico.",
+        "question": {
+          "questionId": "q_bc_3",
+          "statement": "A relação de Brás Cubas com a cortesã Marcela na juventude é um dos episódios mais emblemáticos do romance. Ela evidencia:",
+          "sourceExam": "UNESP",
+          "examYear": 2022,
+          "options": [
+            {
+              "letter": "A",
+              "text": "A ingenuidade do jovem romântico que confunde interesse financeiro com afeição sincera."
+            },
+            {
+              "letter": "B",
+              "text": "A capacidade da mulher oitocentista de ascender socialmente pelo casamento com a aristocracia."
+            },
+            {
+              "letter": "C",
+              "text": "A punição moral imposta pelo pai de Brás, que o obriga a casar com a jovem."
+            },
+            {
+              "letter": "D",
+              "text": "A superioridade moral da prostituta em relação à hipocrisia da família patriarcal."
+            },
+            {
+              "letter": "E",
+              "text": "A superação do preconceito de classe por meio do amor verdadeiro."
+            }
+          ],
+          "correctOption": "A",
+          "explanation": "A alternativa A está correta. Brás delira de amor enquanto Marcela dita o ritmo dos presentes e joias ('quinze meses e onze contos de réis'). B está errada porque Marcela não se casa com Brás; C está incorreta pois o pai envia Brás para Coimbra para cortar o caso, e não para casá-lo com ela; D e E estão incorretas porque a relação expõe o utilitarismo monetário de ambos, sem viés de elevação moral."
+        }
+      },
+      {
+        "elementId": "elem_virgilia",
+        "name": "Virgília na Janela",
+        "elementType": "personagem",
+        "coords": {
+          "x": 75.4,
+          "y": 40,
+          "width": 5.2,
+          "height": 19.5
+        },
+        "narrativeFunction": "Amante burguesa de Brás. Simboliza a busca por status social, o adultério consentido e a conveniência nas relações de classe.",
+        "question": {
+          "questionId": "q_bc_4",
+          "statement": "Virgília rejeita o casamento com Brás Cubas para se casar com Lobo Neves. Essa escolha da personagem baseia-se prioritariamente:",
+          "sourceExam": "FUVEST",
+          "examYear": 2019,
+          "options": [
+            {
+              "letter": "A",
+              "text": "Na repulsa pessoal pela falta de caráter e pela feiura de Brás Cubas."
+            },
+            {
+              "letter": "B",
+              "text": "No cálculo político e social, visto que Lobo Neves apresentava um futuro promissor na carreira pública."
+            },
+            {
+              "letter": "C",
+              "text": "Na imposição violenta e autoritária de seu pai, o Conselheiro Dutra."
+            },
+            {
+              "letter": "D",
+              "text": "No desejo romântico de viver uma paixão avassaladora por Lobo Neves."
+            },
+            {
+              "letter": "E",
+              "text": "Na recusa em submeter-se às regras do adultério burguês."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. Virgília prefere Lobo Neves porque ele 'ia a caminho de ser ministro', atendendo à sua ambição de destaque social. O adultério com Brás viria depois, mantendo o status do casamento. A está errada porque ela gostava da companhia de Brás; C está errada porque o pai influenciou pela conveniência política, mas Virgília concordava plenamente; D está incorreta pois não há idealização romântica; E está errada porque ela vive o adultério durante anos."
+        }
+      },
+      {
+        "elementId": "elem_quincas_borba",
+        "name": "Quincas Borba e o Cão",
+        "elementType": "personagem",
+        "coords": {
+          "x": 85.5,
+          "y": 39.5,
+          "width": 9.5,
+          "height": 50.5
+        },
+        "narrativeFunction": "Filósofo mendigo que cria o 'Humanitismo'. Representa a loucura e a sátira machadiana ao cientificismo e Darwinismo Social do século XIX.",
+        "question": {
+          "questionId": "q_bc_5",
+          "statement": "A filosofia do Humanitismo, formulada pelo personagem Quincas Borba, prega que 'a dor é uma ilusão' e que a luta pela vida justifica a destruição do fraco pelo forte. Ao criar essa teoria, Machado de Assis:",
+          "sourceExam": "UNICAMP",
+          "examYear": 2021,
+          "options": [
+            {
+              "letter": "A",
+              "text": "Adere entusiasticamente às correntes do Cientificismo e do Positivismo europeus."
+            },
+            {
+              "letter": "B",
+              "text": "Cria uma paródia filosoficamente absurda para ridicularizar o otimismo ingênuo e a crueldade das doutrinas deterministas de sua época."
+            },
+            {
+              "letter": "C",
+              "text": "Elabora um tratado sociológico sério sobre as elites políticas brasileiras."
+            },
+            {
+              "letter": "D",
+              "text": "Propõe um novo modelo de religião secular para substituir o Cristianismo decadente."
+            },
+            {
+              "letter": "E",
+              "text": "Sintetiza o pensamento iluminista francês aplicado à realidade da escravidão."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. O Humanitismo é uma paródia do Darwinismo Social e do Positivismo. A metáfora das duas tribos famintas brigando por um campo de batatas ('Ao vencedor, as batatas!') expõe a barbárie maquiada de teoria racional. A está incorreta pois Machado era extremamente crítico do cientificismo; C, D e E erram ao tomar a teoria absurda do doido Quincas Borba como uma proposta séria ou filosófica real."
+        }
+      },
+      {
+        "elementId": "elem_delirio",
+        "name": "O Delírio (O Hipopótamo)",
+        "elementType": "cena",
+        "coords": {
+          "x": 24,
+          "y": 6,
+          "width": 26.1,
+          "height": 37
+        },
+        "narrativeFunction": "Capítulo 7 ('O Delírio'). Pouco antes de morrer, Brás cavalga um hipopótamo até o início dos tempos e se encontra com a Natureza ou Pandora.",
+        "question": {
+          "questionId": "q_bc_7",
+          "statement": "No 'Delírio' do capítulo 7, a personagem Natureza (ou Pandora) declara a Brás Cubas a sua completa indiferença em relação à felicidade humana. Essa alegoria expressa:",
+          "sourceExam": "UNESP",
+          "examYear": 2021,
+          "options": [
+            {
+              "letter": "A",
+              "text": "A visão romântica da natureza como refúgio acolhedor e protetor das dores do indivíduo."
+            },
+            {
+              "letter": "B",
+              "text": "A perspectiva filosófica egocêntrica de que o homem é o centro de todo o universo."
+            },
+            {
+              "letter": "C",
+              "text": "O pessimismo de matriz schopenhaueriana, segundo o qual a vida é um ciclo cego de reprodução sem finalidade moral ou divina."
+            },
+            {
+              "letter": "D",
+              "text": "A condenação cética e religiosa da vaidade humana perante o julgamento de Deus."
+            },
+            {
+              "letter": "E",
+              "text": "A confiança iluminista na capacidade humana de dominar as forças da terra."
+            }
+          ],
+          "correctOption": "C",
+          "explanation": "A alternativa C está correta. A Natureza machadiana afirna: 'Eu não sou tua mãe, sou tua mãe ou tua avó... sou a vida e a morte'. O universo não se importa com os sentimentos do homem, revelando a gratuidade da dor e o pessimismo da existência. A está errada por ser o oposto do Romantismo; B está incorreta pois destrona o ego humano; D e E erram ao pressupor dogmas religiosos ou otimismo iluminista."
+        }
+      }
+    ],
+    "trialPhase": {
+      "thesisQuestion": "Brás Cubas deve ser absolvido moralmente por suas omissões e vaidades sob o pretexto de ser apenas um 'produto de sua classe e época', ou sua conduta revela uma vilania perversa mascarada pelo privilégio social?",
+      "centralNodeContext": "O debate centra-se na recepção crítica da elite imperial brasileira. O aluno pode advogar que Brás é um mero espectador medíocre e passivo das normas aristocráticas ou, contrariamente, que a sua autoconsciência de 'defunto autor' comprova que ele sempre soube do mal e da exploração que exercia (como no caso Prudêncio e no tratamento a Marcela/Virgília), optando deliberadamente por desfrutar da indolência do privilégio burguês.",
+      "aiEvaluationRubrics": {
+        "coherenceWeight": 0.3,
+        "literaryDomainWeight": 0.4,
+        "argumentationWeight": 0.3,
+        "systemPromptContext": "Você é Machado de Assis atuando como um Crítico Literário póstumo. Avalie o ensaio do aluno exigindo o reconhecimento de que Brás Cubas é a personificação da elite ociosa brasileira. Pressione o estudante quando ele tentar vitimizar o protagonista ou romantizar o adultério com Virgília e o episódio com Prudêncio.",
+        "minimumPassScore": 6
+      }
+    },
+    "actionFigureReward": {
+      "figureId": "fig_bras_cubas_3d",
+      "name": "Action Figure Brás Cubas (O Defunto Autor)",
+      "description": "Miniatura detalhada de Brás Cubas de casaca oitocentista, segurando a pena de galinha com a qual escreveu suas memórias do além, apoiado sobre uma caixa do 'Emplastro Brás Cubas'.",
+      "assetUrl": "/assets/models/bras-cubas.glb",
+      "thumbnailUrl": "/assets/figures/bras-cubas-thumb.webp"
+    }
+  },
+  {
+    "slug": "o-cortico",
+    "title": "O Cortiço",
+    "author": "Aluísio Azevedo",
+    "authorShortBio": "Aluísio Tancredo Belo Gonçalves de Azevêdo (1857-1913) foi romancista, caricaturista e diplomata brasileiro. É o grande consolidador do Naturalismo no Brasil com a publicação de 'O Cortiço' em 1890. Influenciado pelas teorias deterministas europeias (Émile Zola, Hippolyte Taine), sua obra explora com minúcia quase biológica a influência do meio ambiente, da raça e do momento histórico na degradação do comportamento humano, enfatizando o instinto e a zoomorfização.",
+    "publicationYear": 1890,
+    "literaryMovement": "Naturalismo",
+    "historicalContext": "Publicado no ano seguinte à Proclamação da República e à Abolição da Escravidão, o romance reflete as intensas transformações urbanas do Rio de Janeiro. Retrata o surgimento do proletariado urbano e a especulação imobiliária contida na explosão de habitações coletivas (cortiços) na capital. Ao mesmo tempo, expõe as teorias raciais vigentes no final do século XIX, encarando a miscigenação, o clima tropical e a ganância do capitalista português como fatores de corrupção do indivíduo.",
+    "generalSummary": "O romance acompanha a ascensão econômica do português João Romão, dono de uma pedreira e de uma venda, que constrói um cortiço explorando o trabalho da escravizada Bertoleza e de seus inquilinos. Paralelamente, desenrola-se a transformação de Jerônimo, um português rígido e trabalhador que é progressivamente 'brasileirado' e moralmente degradado ao se apaixonar pela mulata Rita Baiana. O cortiço surge como um verdadeiro organismo vivo que cresce, multiplica-se e devora a individualidade dos seus habitantes, culminando no sacrifício de Bertoleza e na aliança aristocrática de João Romão com o sobrinho do Barão de Miranda.",
+    "keyThemes": [
+      "Naturalismo",
+      "Determinismo Geográfico e Racial",
+      "Zoomorfização Humana",
+      "Avareza e Capitalismo Primitivo",
+      "O Cortiço como Personagem Coletivo"
+    ],
+    "coverImageUrl": "/assets/covers/o-cortico.webp",
+    "active": true,
+    "quotesPhase": [
+      {
+        "quoteId": "oc_q1",
+        "quote": "O cortiço era a floresta, onde os instintos se desatavam sem peias.",
+        "context": "Descrição do ambiente coletivo no auge de um domingo de festa e bebedeira.",
+        "narrativeVoice": "Narrador Onisciente em 3ª pessoa",
+        "associationQuestion": "Esta passagem ilustra o postulado naturalista do determinismo do meio. O que ela afirma sobre o comportamento humano?",
+        "options": [
+          "A civilidade humana prevalece sobre a natureza mesmo nos ambientes mais miseráveis.",
+          "O espaço físico e social degradado anula a razão e liberta os impulsos animais e primitivos dos indivíduos.",
+          "A floresta brasileira é o único refúgio moral para os trabalhadores explorados da cidade.",
+          "O cortiço é uma utopia comunitária onde todos vivem em harmonia amorosa.",
+          "A religiosidade dos moradores consegue frear a influência negativa do ambiente."
+        ],
+        "correctAnswer": "O espaço físico e social degradado anula a razão e liberta os impulsos animais e primitivos dos indivíduos."
+      },
+      {
+        "quoteId": "oc_q2",
+        "quote": "E naquela insensível lavagem de uma vida de porco, João Romão ia acumulando a sua fortuna.",
+        "context": "Descrição da rotina de avareza extrema e privação voluntária de João Romão no início do romance.",
+        "narrativeVoice": "Narrador Onisciente em 3ª pessoa",
+        "associationQuestion": "Qual recurso estético do Naturalismo se destaca no uso da expressão 'vida de porco'?",
+        "options": [
+          "A idealização poética do trabalho braçal e da vida no campo.",
+          "A zoomorfização, na qual caracteres de animais são atribuídos aos humanos para reforçar sua degradação.",
+          "A sutil metáfora romântica sobre a purificação da alma pelo sofrimento físico.",
+          "A denúncia exclusiva do mau estado sanitário das pocilgas do Rio de Janeiro.",
+          "O uso de hipérboles barrocas sem compromisso com o realismo da cena."
+        ],
+        "correctAnswer": "A zoomorfização, na qual caracteres de animais são atribuídos aos humanos para reforçar sua degradação."
+      },
+      {
+        "quoteId": "oc_q3",
+        "quote": "A mulata era a serpente fascinadora; a cachaça era a droga que o adormecia.",
+        "context": "Processo de transformação e 'abrasileiramento' do português Jerônimo ao ser seduzido por Rita Baiana.",
+        "narrativeVoice": "Narrador Onisciente em 3ª pessoa",
+        "associationQuestion": "Sob a ótica do determinismo racial e climático do século XIX, como a crítica interpreta a ruína do português Jerônimo?",
+        "options": [
+          "Como uma vitória da diversidade cultural brasileira sobre o colonizador europeu.",
+          "Como a prova de que a raça branca europeia é imune às tentações tropicais.",
+          "Como a demonstração de que o clima tropical, a sensualidade da mulata e o álcool corrompem a moral e a força de trabalho do imigrante europeu.",
+          "Como um drama religioso tradicional sobre o pecado da carne e o castigo divino.",
+          "Como uma crítica política ao fracasso da imigração subvencionada no Brasil."
+        ],
+        "correctAnswer": "Como a demonstração de que o clima tropical, a sensualidade da mulata e o álcool corrompem a moral e a força de trabalho do imigrante europeu."
+      }
+    ],
+    "pointAndClickPhase": [
+      {
+        "elementId": "elem_joao_romao",
+        "name": "João Romão no Caderno de Dívidas",
+        "elementType": "personagem",
+        "coords": {
+          "x": 84,
+          "y": 69.5,
+          "width": 15.5,
+          "height": 14.5
+        },
+        "narrativeFunction": "Encarna o capitalismo selvagem, a acumulação primitiva de capital pela exploração implacável do proletariado e a falsificação.",
+        "question": {
+          "questionId": "q_oc_1",
+          "statement": "(FUVEST) Em 'O Cortiço', a trajetória de João Romão expressa o mecanismo de ascensão social na sociedade brasileira da época. Esse processo caracteriza-se:",
+          "sourceExam": "FUVEST",
+          "examYear": 2022,
+          "options": [
+            {
+              "letter": "A",
+              "text": "Pelo empenho em modernizar a infraestrutura urbana do Rio de Janeiro com responsabilidade social."
+            },
+            {
+              "letter": "B",
+              "text": "Pela acumulação primitiva baseada no roubo, na exploração do trabalho alheio e no posterior 'amaciamento' moral para ingressar na elite."
+            },
+            {
+              "letter": "C",
+              "text": "Pela estrita obediência às leis trabalhistas e pelo respeito às alforrias de seus funcionários."
+            },
+            {
+              "letter": "D",
+              "text": "Pela submissão cega à aristocracia do Barão de Miranda sem conseguir enriquecer de fato."
+            },
+            {
+              "letter": "E",
+              "text": "Pela transformação de um mercador ganancioso em um filantropo defensor do Abolicionismo."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. João Romão rouba materiais de construção, explora Bertoleza sem pagar salários e esconde sua condição de escrava fugida. Ao enriquecer, ele 'lava' a reputação comprando títulos e casando com a filha do Visconde. A, C e E são absurdas perante a ganância do personagem; D está errada porque ele supera o Barão de Miranda em riqueza e status."
+        }
+      },
+      {
+        "elementId": "elem_bertoleza",
+        "name": "Bertoleza no Peixe",
+        "elementType": "personagem",
+        "coords": {
+          "x": 66.5,
+          "y": 62,
+          "width": 14,
+          "height": 28
+        },
+        "narrativeFunction": "Símbolo da tríplice opressão: mulher, negra e trabalhadora. É enganada por João Romão que guarda a falsa carta de alforria.",
+        "question": {
+          "questionId": "q_oc_2",
+          "statement": "A personagem Bertoleza desempenha um papel trágico e fundamental na consolidação da fortuna de João Romão. O desfecho da personagem, ao suicidar-se com a faca de peixe quando ameaçada de reescravização, significa:",
+          "sourceExam": "UNICAMP",
+          "examYear": 2020,
+          "options": [
+            {
+              "letter": "A",
+              "text": "O ato de desespero imaturo de quem não confiou na justiça das leis abolicionistas."
+            },
+            {
+              "letter": "B",
+              "text": "A denúncia do caráter descartável do negro na engrenagem capitalista do romance, onde Bertoleza é descartada após tornar-se inútil para a ascensão de Romão."
+            },
+            {
+              "letter": "C",
+              "text": "A vitória moral da escravizada sobre o senhor de cortiço que ficou sem a sua mão de obra."
+            },
+            {
+              "letter": "D",
+              "text": "A consequência direta da fúria cega provocada pelo ciúme de Rita Baiana."
+            },
+            {
+              "letter": "E",
+              "text": "O cumprimento rigoroso da sentença judicial imposta pelos verdadeiros donos da propriedade."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. Bertoleza é o motor do trabalho inicial de João Romão. Quando ele precisa casar com Zulmira para entrar na elite, ele denúncia Bertoleza como escrava fugida para se livrar dela. Ela prefere a morte a voltar ao cativeiro. A está errada porque a justiça da época protegia os proprietários; C está incorreta pois Romão não sofre punição; D e E erram as motivações da tragédia."
+        }
+      },
+      {
+        "elementId": "elem_rita_baiana",
+        "name": "Rita Baiana Dançando",
+        "elementType": "personagem",
+        "coords": {
+          "x": 41.2,
+          "y": 51,
+          "width": 13.2,
+          "height": 22
+        },
+        "narrativeFunction": "Personificação do 'meio' tropical: sensual, espontânea, festiva. É o agente catalisador da transformação do português Jerônimo.",
+        "question": {
+          "questionId": "q_oc_3",
+          "statement": "A descrição do samba de Rita Baiana no cortiço é um dos momentos mais celebres do Naturalismo brasileiro. Na ótica do romance, a dança de Rita representa:",
+          "sourceExam": "UNESP",
+          "examYear": 2019,
+          "options": [
+            {
+              "letter": "A",
+              "text": "Uma manifestação folclórica exótica tratada de forma respeitosa e neutra pelo narrador."
+            },
+            {
+              "letter": "B",
+              "text": "A força irresistível e quase hipnótica da natureza tropical que desperta a sensualidade animal e anula o rigor moral europeu."
+            },
+            {
+              "letter": "C",
+              "text": "A tentativa dos escravizados de manter os rituais religiosos sagrados de matriz africana."
+            },
+            {
+              "letter": "D",
+              "text": "O protesto político organizado dos trabalhadores do cortiço contra a exploração dos aluguéis."
+            },
+            {
+              "letter": "E",
+              "text": "O triunfo do Romantismo na exaltação da beleza nativa e intocada."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. Para Aluísio Azevedo, a dança e o corpo de Rita Baiana são extensões do clima tropical. A música deita raízes no instinto e contagia Jerônimo, que abandona a esposa e a disciplina de trabalho. A está errada porque a visão do narrador é determinista/cientificista e não neutra; C, D e E interpretam erroneamente o sentido naturalista da cena."
+        }
+      },
+      {
+        "elementId": "elem_jeronimo",
+        "name": "Jerônimo com o Machado",
+        "elementType": "personagem",
+        "coords": {
+          "x": 14.8,
+          "y": 44,
+          "width": 13.4,
+          "height": 49
+        },
+        "narrativeFunction": "O operário português modelo que sofre o processo de 'tropicalização' e degradação moral sob influência do cortiço.",
+        "question": {
+          "questionId": "q_oc_4",
+          "statement": "No início do romance, Jerônimo é descrito como um homem sóbrio, forte e fiel à esposa portuguesa Piedade. No decorrer da trama, sua transformação expressa a tese determinista de que:",
+          "sourceExam": "FUVEST",
+          "examYear": 2021,
+          "options": [
+            {
+              "letter": "A",
+              "text": "O caráter individual é inabalável e imune às influências do meio externo."
+            },
+            {
+              "letter": "B",
+              "text": "O homem é um joguete passivo moldado pelas forças combinadas do meio físico, da raça e da paixão instintiva."
+            },
+            {
+              "letter": "C",
+              "text": "A conversão ao catolicismo fervoroso é capaz de salvar o imigrante da miséria moral."
+            },
+            {
+              "letter": "D",
+              "text": "A convivência com a burguesia carioca refina os hábitos do simples trabalhador braçal."
+            },
+            {
+              "letter": "E",
+              "text": "O assassinato do rival Firmo foi um ato de legítima defesa da honra familiar."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. A tese central do romance naturalista é o determinismo: o indivíduo não tem livre-arbítrio; Jerônimo cede ao meio (o cortiço), ao clima (calor do Brasil) e à raça/mestiçagem (Rita). A é o oposto da tese do livro; C, D e E distorcem o enredo e os conceitos da obra."
+        }
+      },
+      {
+        "elementId": "elem_garrafa_cachaca",
+        "name": "A Garrafa de Cachaça e a Lamparina",
+        "elementType": "objeto",
+        "coords": {
+          "x": 59.4,
+          "y": 52,
+          "width": 5.8,
+          "height": 10
+        },
+        "narrativeFunction": "Símbolo dos vícios que degradam os habitantes do cortiço. O álcool atua como anestésico sociais e catalisador de brigas.",
+        "question": {
+          "questionId": "q_oc_5",
+          "statement": "O consumo de álcool e os hábitos de higiene precários no cortiço são detalhadamente descritos pelo narrador. Essa ênfase no patológico e no grotesco atende ao seguinte objetivo estético do Naturalismo:",
+          "sourceExam": "UNICAMP",
+          "examYear": 2022,
+          "options": [
+            {
+              "letter": "A",
+              "text": "Provocar o riso descompromissado do leitor através de uma comédia de costumes."
+            },
+            {
+              "letter": "B",
+              "text": "Dissecar a sociedade como um laboratório biológico, demonstrando como a miséria material gera a contaminação física e moral."
+            },
+            {
+              "letter": "C",
+              "text": "Idealizar a simplicidade da vida do povo em oposição à decadência da elite aristocrática."
+            },
+            {
+              "letter": "D",
+              "text": "Denunciar a falta de investimentos públicos para a criação de um sistema de esgoto sanitário."
+            },
+            {
+              "letter": "E",
+              "text": "Promover a propaganda de bebidas alcoólicas nacionais nas classes populares."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. O romance naturalista funciona como uma 'dissecação anatômica' da sociedade. O escritor opera como um cientista que expõe as 'chagas sociais' (vícios, doenças, depravação) resultantes da miséria e do meio insalubre. A, C e E erram completamente a intenção literária; D confunde literatura científica com mero panfleto governamental."
+        }
+      },
+      {
+        "elementId": "elem_visconde_miranda",
+        "name": "O Sobrado do Barão de Miranda",
+        "elementType": "cena",
+        "coords": {
+          "x": 14,
+          "y": 2,
+          "width": 25.5,
+          "height": 26
+        },
+        "narrativeFunction": "Representa a aristocracia decadente. Inicialmente rival de João Romão, acaba se aliando a ele pelo dinheiro.",
+        "question": {
+          "questionId": "q_oc_6",
+          "statement": "A rivalidade inicial entre o sobrado burguês/aristocrático do Barão de Miranda e a venda/cortiço de João Romão resolve-se no final da obra. Essa resolução simboliza:",
+          "sourceExam": "UNESP",
+          "examYear": 2020,
+          "options": [
+            {
+              "letter": "A",
+              "text": "O triunfo definitivo da aristocracia tradicional sobre o capitalismo emergente e vulgar."
+            },
+            {
+              "letter": "B",
+              "text": "A fusão de interesses entre a antiga elite de títulos e a nova burguesia mercantil sem escrúpulos através do casamento arranjado."
+            },
+            {
+              "letter": "C",
+              "text": "A falência total de ambos os lados devido ao incêndio destruidor do cortiço."
+            },
+            {
+              "letter": "D",
+              "text": "A intervenção do Imperador para pacificar a vizinhança carioca."
+            },
+            {
+              "letter": "E",
+              "text": "A rejeição da jovem Zulmira a casar-se com um homem sem nobreza de sangue."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. Miranda (que tem o título de Visconde mas precisa de capital) e João Romão (que tem a fortuna da pedreira mas quer prestígio social) selam a paz casando Zulmira com Romão. É o pacto da elite financeira e aristocrática. A é incorreta porque a aristocracia cede; C, D e E são incorretas conforme o enredo do livro."
+        }
+      },
+      {
+        "elementId": "elem_incendio",
+        "name": "O Incêndio de Bruxa",
+        "elementType": "cena",
+        "coords": {
+          "x": 41.4,
+          "y": 1,
+          "width": 17.5,
+          "height": 21
+        },
+        "narrativeFunction": "Momento em que o cortiço original é destruído pelo fogo posto por Bruxa. Sua reconstrução dará origem a uma vila higienizada e mais cara.",
+        "question": {
+          "questionId": "q_oc_7",
+          "statement": "O incêndio do cortiço pela bruxa e a posterior reconstrução do espaço como 'Vila João Romão' (com aluguéis mais altos e expulsão dos mais miseráveis) ilustra o fenômeno urbano de:",
+          "sourceExam": "FUVEST",
+          "examYear": 2019,
+          "options": [
+            {
+              "letter": "A",
+              "text": "Preservação patrimonial e arquitetônica do centro histórico do Rio de Janeiro."
+            },
+            {
+              "letter": "B",
+              "text": "Gentrificação e higienismo, nos quais o capital imobiliário remodela o espaço, expulsa as camadas de extrema miséria e aumenta os lucros do proprietário."
+            },
+            {
+              "letter": "C",
+              "text": "Revolução socialista dos trabalhadores sem-teto contra a especulação imobiliária."
+            },
+            {
+              "letter": "D",
+              "text": "Decadência irreversível da fortuna de João Romão após perder suas benfeitorias."
+            },
+            {
+              "letter": "E",
+              "text": "Solidariedade do proprietário que reconstrói as casas de graça para as vítimas."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. A destruição pelo fogo elimina o cortiço imundo e permite a João Romão erguer casas de alvenaria ('Vila João Romão'), cobrando aluguéis caros. É o processo de higienização urbana que marcou o Rio de Janeiro na virada do século XIX para o XX. A, C, D e E desconsideram a lógica mercantil explicitada no romance."
+        }
+      }
+    ],
+    "trialPhase": {
+      "thesisQuestion": "O romance 'O Cortiço' consegue atuar como uma denúncia social válida contra a exploração dos trabalhadores e dos escravizados, ou acaba por endossar um discurso racista e biologizante que justifica as desigualdades da época?",
+      "centralNodeContext": "O debate coloca em xeque a estética Naturalista. Por um lado, Aluísio Azevedo escancara a crueldade de João Romão, as péssimas condições das habitações populares e a violência da escravidão (Bertoleza). Por outro lado, o romance utiliza teorias deterministas e raciais hoje superadas, retratando negros e mestiços como moralmente instáveis ou guiados por 'instintos animais', e justificando a degradação de Jerônimo pela 'contaminação' do clima e da raça nativa.",
+      "aiEvaluationRubrics": {
+        "coherenceWeight": 0.3,
+        "literaryDomainWeight": 0.4,
+        "argumentationWeight": 0.3,
+        "systemPromptContext": "Você é Aluísio Azevedo defendendo sua obra sob o prisma do Cientificismo do século XIX. Exija que o aluno problematize as teorias de Hippolyte Taine e Émile Zola. Não aceite respostas genéricas que ignorem os conceitos de 'Determinismo do Meio', 'Zoomorfização' e a figura trágica de Bertoleza.",
+        "minimumPassScore": 6
+      }
+    },
+    "actionFigureReward": {
+      "figureId": "fig_rita_baiana_3d",
+      "name": "Action Figure Rita Baiana",
+      "description": "Miniatura em 3D de Rita Baiana em postura de dança, com saia rodada e vestimentas coloridas, sobre uma base que simula as pedras molhadas do lava-pés do cortiço.",
+      "assetUrl": "/assets/models/rita-baiana.glb",
+      "thumbnailUrl": "/assets/figures/rita-baiana-thumb.webp"
+    }
+  },
+  {
+    "slug": "vidas-secas",
+    "title": "Vidas Secas",
+    "author": "Graciliano Ramos",
+    "authorShortBio": "Graciliano Ramos (1892-1953) foi um dos mais importantes romancistas da Segunda Fase do Modernismo Brasileiro (Geração de 30). Nascido em Alagoas, sua obra é reconhecida pela linguagem enxuta, seca e precisa, pela recusa ao sentimentalismo fácil e pela profunda análise psicológica e sociológica das populações marginalizadas do Sertão nordestino. 'Vidas Secas' (1938) representa o ápice do romance regionalista de cunho social.",
+    "publicationYear": 1938,
+    "literaryMovement": "Modernismo (2ª Fase - Regionalismo de 30)",
+    "historicalContext": "O livro foi publicado durante a ditadura do Estado Novo de Getúlio Vargas, período de forte censura e de debates sobre a identidade e a integração nacional. A Geração de 30 volta seus olhos para o Nordeste agrário, devastado pelas secas periódicas, pelo latifúndio arcaico e pela omissão do Estado. A obra reflete a miséria dos retirantes e o coronelismo que mantinha os sertanejos submetidos a uma dominação quase feudal.",
+    "generalSummary": "A obra narra a saga itinerante de uma família de retirantes sertanejos: o pai Fabiano, a mãe Sinhá Vitória, os dois filhos (designados apenas como 'o menino mais novo' e 'o menino mais velho') e a cadela Baleia. Pressionados pela seca, eles perambulam até encontrar uma fazenda abandonada. Fabiano emprega-se como vaqueiro, mas é constantemente explorado pelo patrão e arbitrariamente humilhado pelo Soldado Amarelo. A estrutura do livro é desmontável (capítulos episódicos que funcionam como contos autônomos), retratando a indigência vocabular dos personagens, que mal conseguem articular o pensamento em palavras, nivelando-se aos animais — enquanto a cadela Baleia ganha traços humanizados.",
+    "keyThemes": [
+      "Regionalismo de 30",
+      "Seca e Retirada",
+      "Reificação/Animalização Humana",
+      "Humanização dos Animais (Cadela Baleia)",
+      "Incomunicabilidade e Linguagem Escassa"
+    ],
+    "coverImageUrl": "/assets/covers/vidas-secas.webp",
+    "active": true,
+    "quotesPhase": [
+      {
+        "quoteId": "vs_q1",
+        "quote": "Fabiano sentia-se um bicho, um bicho completo, mas capaz de falar às vezes.",
+        "context": "Capítulo 1 ('Mudança'). Reflexão interior de Fabiano sobre sua condição de existência e limitação com as palavras.",
+        "narrativeVoice": "Narrador Onisciente com Discurso Indireto Livre em 3ª pessoa",
+        "associationQuestion": "A expressão 'sentia-se um bicho' resume um dos grandes temas de 'Vidas Secas'. Como a crítica define essa condição?",
+        "options": [
+          "A idealização ecológico-romântica do homem integrado à natureza selvagem.",
+          "A reificação ou animalização do ser humano, reduzido pelo meio hostil e pela exploração à mera luta pela sobrevivência biológica.",
+          "A loucura clínica do personagem gerada pela insolutável fome diária.",
+          "A apologia modernista à vida rústica em oposição à corrupção das grandes cidades.",
+          "O desabafo de um criminoso que se recusa a aceitar as leis da civilização."
+        ],
+        "correctAnswer": "A reificação ou animalização do ser humano, reduzido pelo meio hostil e pela exploração à mera luta pela sobrevivência biológica."
+      },
+      {
+        "quoteId": "vs_q2",
+        "quote": "A cadela Baleia queria dormir. Acordaria num mundo cheio de preás.",
+        "context": "Capítulo 9 ('Baleia'). Acontecimentos finais e agonia da cadela após ser baleada por Fabiano.",
+        "narrativeVoice": "Narrador Onisciente com Discurso Indireto Livre",
+        "associationQuestion": "O capítulo da morte da cadela Baleia é um dos mais célebres da literatura brasileira. Qual recurso estilístico Graciliano Ramos utiliza para retratar o animal?",
+        "options": [
+          "A contaminação cômica do texto por fábulas infantis tradicionais.",
+          "A humanização (prosopopeia) do animal, atribuindo a Baleia sentimentos, sonhos e uma consciência digna e afetuosa que contrasta com a brutalidade do ambiente.",
+          "O rigor estritamente biológico que descreve a morte do cão sem qualquer traço de emoção.",
+          "A representação da cadela como um monstro ameaçador que precisava ser exterminado pela segurança da família.",
+          "A denúncia direta contra os maus-tratos aos animais domésticos na legislação do Estado Novo."
+        ],
+        "correctAnswer": "A humanização (prosopopeia) do animal, atribuindo a Baleia sentimentos, sonhos e uma consciência digna e afetuosa que contrasta com a brutalidade do ambiente."
+      },
+      {
+        "quoteId": "vs_q3",
+        "quote": "Sinhá Vitória desejava uma cama igual à de Seu Tomás da Bolandeira.",
+        "context": "Pensamento recorrente de Sinhá Vitória ao comparar sua vida de privações com a do único homem culto que conheceu.",
+        "narrativeVoice": "Narrador Onisciente com Discurso Indireto Livre",
+        "associationQuestion": "Na economia do romance, o que simboliza o sonho da 'cama de estrado de couro' de Seu Tomás da Bolandeira para Sinhá Vitória?",
+        "options": [
+          "O luxo desmedido e a futilidade das mulheres do sertão.",
+          "A aspiração mínima por dignidade humana, conforto físico e a elevação acima da condição de animal que dorme no chão de terra.",
+          "A inveja doentia que destruiu a amizade entre as duas famílias.",
+          "A recusa em continuar trabalhando na roça ao lado do marido.",
+          "O desejo de abandonar o Nordeste para morar na capital do país."
+        ],
+        "correctAnswer": "A aspiração mínima por dignidade humana, conforto físico e a elevação acima da condição de animal que dorme no chão de terra."
+      }
+    ],
+    "pointAndClickPhase": [
+      {
+        "elementId": "elem_fabiano",
+        "name": "Fabiano e o Açoite do Sol",
+        "elementType": "personagem",
+        "coords": {
+          "x": 37,
+          "y": 33,
+          "width": 10.4,
+          "height": 36
+        },
+        "narrativeFunction": "Protagonista; vaqueiro rude, analfabeto e explorado. Expressa a limitação da linguagem e a submissão às forças da natureza e do latifúndio.",
+        "question": {
+          "questionId": "q_vs_1",
+          "statement": "(FUVEST) Em 'Vidas Secas', a relação de Fabiano com a linguagem é marcada pela escassez de palavras. Essa característica sintática e temática do romance indica:",
+          "sourceExam": "FUVEST",
+          "examYear": 2021,
+          "options": [
+            {
+              "letter": "A",
+              "text": "A opção estética de Graciliano Ramos por um estilo barroco e rebuscado."
+            },
+            {
+              "letter": "B",
+              "text": "A amputação do pensamento e da capacidade de articulação política do sertanejo, fruto da opressão social e do isolamento secular."
+            },
+            {
+              "letter": "C",
+              "text": "O desinteresse deliberado dos retirantes em se comunicar com os habitantes da cidade."
+            },
+            {
+              "letter": "D",
+              "text": "A prova científica da incapacidade intelectual nata das populações rurais do Nordeste."
+            },
+            {
+              "letter": "E",
+              "text": "A harmonia interior de quem vive em silêncio contemplation da natureza."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. Em 'Vidas Secas', o domínio da palavra é instrumento de poder (detido pelo patrão, pelo juiz e pelo Soldado Amarelo). A falta de linguagem em Fabiano impede que ele se defenda dos golpes no acerto de contas ou do arbítrio da polícia. A é o oposto do estilo enxuto de Graciliano; C, D e E interpretam mal a crítica social do livro."
+        }
+      },
+      {
+        "elementId": "elem_cadela_baleia",
+        "name": "A Cadela Baleia",
+        "elementType": "personagem",
+        "coords": {
+          "x": 13.8,
+          "y": 69.5,
+          "width": 25.2,
+          "height": 25.5
+        },
+        "narrativeFunction": "Membro fundamental da família. Sua humanização contrapõe-se à animalização dos humanos na obra.",
+        "question": {
+          "questionId": "q_vs_2",
+          "statement": "No capítulo 'Baleia', ao descrever os últimos momentos do animal, a narrativa atinge um dos pontos mais altos de comoção do romance. Essa comoção decorre do fato de que:",
+          "sourceExam": "UNICAMP",
+          "examYear": 2020,
+          "options": [
+            {
+              "letter": "A",
+              "text": "A cadela é o único ser da família que consegue articular discursos filosóficos completos."
+            },
+            {
+              "letter": "B",
+              "text": "O narrador projeta na interioridade do animal desejos simples e afetivos de harmonia familiar, tornando a cadela mais 'humana' do que o ambiente social ao redor."
+            },
+            {
+              "letter": "C",
+              "text": "Fabiano demonstra um profundo remorso e comete suicídio após atirar na cadela."
+            },
+            {
+              "letter": "D",
+              "text": "A morte da cadela é o evento que finalmente traz a chuva de volta ao sertão."
+            },
+            {
+              "letter": "E",
+              "text": "Sinhá Vitória se recusa a aceitar o sacrifício e abandona o marido no sertão."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. Graciliano utiliza o Discurso Indireto Livre para entrar na mente de Baleia. Enquanto os humanos são embrutecidos e pensam em urros/guturais, a cadela sonha com um paraíso pleno de afeto e fartura (preás). A está errada porque a cadela não fala; C, D e E inventam desfechos não existentes na obra."
+        }
+      },
+      {
+        "elementId": "elem_espingarda",
+        "name": "A Espingarda de Pederneira",
+        "elementType": "objeto",
+        "coords": {
+          "x": 19.4,
+          "y": 37,
+          "width": 6.4,
+          "height": 26.5
+        },
+        "narrativeFunction": "Ferramenta de caça para a sobrevivência e símbolo da potencial violência/resistência do sertanejo.",
+        "question": {
+          "questionId": "q_vs_3",
+          "statement": "No capítulo 'O Soldado Amarelo', Fabiano encontra seu opressor perdido na caatinga. Ele segura o facão e pensa em matá-lo, mas acaba desistindo e ensinando o caminho de volta. Essa atitude de Fabiano revela:",
+          "sourceExam": "UNESP",
+          "examYear": 2022,
+          "options": [
+            {
+              "letter": "A",
+              "text": "O pavor sagrado e a submissão ancestral à figura do 'Governo' e da autoridade constituída, que paralisa a reação do sertanejo."
+            },
+            {
+              "letter": "B",
+              "text": "A covardia pessoal de Fabiano, que temia ser preso pelos companheiros do soldado."
+            },
+            {
+              "letter": "C",
+              "text": "A compreensão de que o Soldado Amarelo se tornara seu amigo pessoal após a partida de canastra."
+            },
+            {
+              "letter": "D",
+              "text": "O perdão cristão e a esperança de receber uma recompensa em dinheiro do Estado."
+            },
+            {
+              "letter": "E",
+              "text": "A vitória da razão revolucionária proletária organizada contra as forças do Estado."
+            }
+          ],
+          "correctOption": "A",
+          "explanation": "A alternativa A está correta. Fabiano internalizou que 'governo é governo' e que a farda representa uma ordem que ele, homem fraco e sem palavra, não pode desafiar impunemente. Seu gesto não é de bondade idealizada, mas do peso da opressão social institucionalizada. B, C, D e E trazem justificativas desconectadas da psicologia do personagem."
+        }
+      },
+      {
+        "elementId": "elem_sinha_vitoria",
+        "name": "Sinhá Vitória e o MOCORÓ",
+        "elementType": "personagem",
+        "coords": {
+          "x": 72.5,
+          "y": 45,
+          "width": 16,
+          "height": 45
+        },
+        "narrativeFunction": "Esposa de Fabiano; mãe tenaz que faz contas complexas com caroços de milho para tentar impedir os roubos do patrão.",
+        "question": {
+          "questionId": "q_vs_4",
+          "statement": "Sinhá Vitória utiliza caroços de milho para calcular o pagamento do trabalho de Fabiano e descobre que o patrão os está roubando. Ao reclamar, o casal recebe como resposta a ameaça de demissão. Esse episódio expõe:",
+          "sourceExam": "FUVEST",
+          "examYear": 2019,
+          "options": [
+            {
+              "letter": "A",
+              "text": "A eficiência das leis trabalhistas no interior do Nordeste nos anos 1930."
+            },
+            {
+              "letter": "B",
+              "text": "A estrutura de dominação do latifúndio, em que a fraude nas contas e a chantagem despojam o trabalhador de qualquer ganho real."
+            },
+            {
+              "letter": "C",
+              "text": "A incapacidade de Sinhá Vitória em realizar operações matemáticas elementares."
+            },
+            {
+              "letter": "D",
+              "text": "A generosidade do patrão, que perdoa a dívida anterior da família de retirantes."
+            },
+            {
+              "letter": "E",
+              "text": "A aliança entre o sindicato rural e os vaqueiros da região."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. O patrão cobra juros abusivos pelas suprimentos fornecidos e desconta valores arbitrários do trabalho do vaqueiro. Quando Fabiano reclama (motivado por Vitória), o patrão diz que ele está sendo insolente. Sem alternativa, Fabiano se desculpa e aceita o roubo para não ser expulso da terra. A, C, D e E são incorretas."
+        }
+      },
+      {
+        "elementId": "elem_meninos",
+        "name": "Os Meninos no Juazeiro",
+        "elementType": "personagem",
+        "coords": {
+          "x": 57.6,
+          "y": 43.5,
+          "width": 11.2,
+          "height": 12
+        },
+        "narrativeFunction": "O menino mais novo e o menino mais velho. Representam a perpetuação da miséria e do analfabetismo pela ausência de nome próprio e de escola.",
+        "question": {
+          "questionId": "q_vs_5",
+          "statement": "O fato de os filhos de Fabiano e Sinhá Vitória não possuírem nomes próprios no romance (sendo chamados apenas de 'o menino mais novo' e 'o menino mais velho') constitui um recurso expressivo que indica:",
+          "sourceExam": "UNICAMP",
+          "examYear": 2021,
+          "options": [
+            {
+              "letter": "A",
+              "text": "O esquecimento do autor, que omitiu os nomes na versão final do texto de 1938."
+            },
+            {
+              "letter": "B",
+              "text": "A anulação da individualidade e da cidadania das crianças, reduzidas a meras peças genéricas do ciclo da miséria e do abandono sertanejo."
+            },
+            {
+              "letter": "C",
+              "text": "A tradição indígena local de não nomear os filhos até a fase adulta."
+            },
+            {
+              "letter": "D",
+              "text": "O carinho poético da mãe que preferia utilizar apelidos afetuosos."
+            },
+            {
+              "letter": "E",
+              "text": "A intenção de criar uma narrativa de suspense sobre a verdadeira paternidade das crianças."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. A ausência de nome formal (despersonalização) sublinha que aquelas crianças são apenas mais uma geração condenada a repetir o fardo dos pais. Elas não têm registro, escola ou perspectiva. A, C, D e E erram completamente a técnica literária e a crítica social envolvidas."
+        }
+      },
+      {
+        "elementId": "elem_urubus",
+        "name": "Urubus no Céu de Chumbo",
+        "elementType": "cena",
+        "coords": {
+          "x": 78.3,
+          "y": 6,
+          "width": 14,
+          "height": 19
+        },
+        "narrativeFunction": "Presságio da seca destruidora que obriga a família a abandonar a fazenda no final da obra.",
+        "question": {
+          "questionId": "q_vs_6",
+          "statement": "A presença dos urubus sobrevoando a propriedade e a morte da vaca de estimação sinalizam o retorno da seca. A estrutura circular do romance (que começa e termina com uma 'Mudança') sugere que:",
+          "sourceExam": "UNESP",
+          "examYear": 2021,
+          "options": [
+            {
+              "letter": "A",
+              "text": "A família finalmente encontrou a prosperidade definitiva ao chegar à cidade grande no sul do país."
+            },
+            {
+              "letter": "B",
+              "text": "O drama do retirante é um ciclo eterno e trágico de fuga e recomeço, no qual a seca física reflete a esterilidade das estruturas sociais."
+            },
+            {
+              "letter": "C",
+              "text": "O Governo do Estado resolveu o problema da irrigação no semiárido nordestino."
+            },
+            {
+              "letter": "D",
+              "text": "Fabiano decidiu tornar-se um cangaceiro para combater a seca com violência."
+            },
+            {
+              "letter": "E",
+              "text": "A morte de todos os personagens é inevitável no último capítulo da obra."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. O livro possui estrutura em espiral/circular: o capítulo 13 ('Fuga') repete a caminhada exaustiva do capítulo 1 ('Mudança'). Eles fogem da seca em busca de um lugar onde possam ser 'gente', mas a estrutura social excludente estará lá também. A, C, D e E são incorretas perante o texto."
+        }
+      },
+      {
+        "elementId": "elem_festa_cidade",
+        "name": "A Festa da Cidade e a Prisão",
+        "elementType": "cena",
+        "coords": {
+          "x": 87,
+          "y": 26.2,
+          "width": 13,
+          "height": 17.2
+        },
+        "narrativeFunction": "A cidade como ambiente hostil onde Fabiano é apanhado pela trapaça no jogo de cartas e preso arbitrariamente.",
+        "question": {
+          "questionId": "q_vs_7",
+          "statement": "No capítulo 'Festa', a família vai à cidade para os festejos de Natal. A experiência urbana dos personagens é marcada pela sensação de estar em um meio alheio e ameaçador. Essa percepção reforça a ideia de que:",
+          "sourceExam": "FUVEST",
+          "examYear": 2020,
+          "options": [
+            {
+              "letter": "A",
+              "text": "A cidade e o sertão são ambientes integrados que oferecem as mesmas oportunidades aos trabalhadores."
+            },
+            {
+              "letter": "B",
+              "text": "A marginalização do sertanejo é dupla: ele é expulso pelo clima no campo e rejeitado/reprimido pelas instituições urbanas (a polícia, a igreja, o comércio)."
+            },
+            {
+              "letter": "C",
+              "text": "A igreja católica consegue acolher os retirantes e garantir seu sustento na cidade."
+            },
+            {
+              "letter": "D",
+              "text": "Fabiano preferiu a vida na cadeia porque lá recebia comida grátis sem precisar trabalhar."
+            },
+            {
+              "letter": "E",
+              "text": "Os meninos adaptaram-se rapidamente e decidiram não retornar mais para a fazenda."
+            }
+          ],
+          "correctOption": "B",
+          "explanation": "A alternativa B está correta. Na cidade, o sertanejo sente-se deslocado (as roupas apertam, o sapato de Sinhá Vitória machuca o pé) e a polícia usa da força contra quem não sabe se comunicar. A cidade não é refúgio, é outro espaço de exclusão. A, C, D e E contrariam a visão do romance."
+        }
+      }
+    ],
+    "trialPhase": {
+      "thesisQuestion": "A resignação e a falta de palavra de Fabiano perante os abusos do Patrão e do Soldado Amarelo fazem dele um cúmplice de sua própria dominação ou ele deve ser visto como uma vítima absoluta sem qualquer margem de escolha?",
+      "centralNodeContext": "O debate problematiza o determinismo social e o grau de consciência política em Graciliano Ramos. Ao negar a Fabiano a capacidade de rebeldia (como a do cangaço) e fazer com que ele poupe o Soldado Amarelo, o livro apresenta um quadro de opressão tão profundo que a própria ideia de 'livre-arbítrio' desmorona. O aluno deve argumentar se a passividade de Fabiano é a única forma de sobrevivência possível ou se reflete a tragédia da alienação total.",
+      "aiEvaluationRubrics": {
+        "coherenceWeight": 0.3,
+        "literaryDomainWeight": 0.4,
+        "argumentationWeight": 0.3,
+        "systemPromptContext": "Você é Graciliano Ramos com seu estilo seco e avesso a sentimentalismos. Exija do aluno a compreensão de que o problema de Fabiano não é falta de caráter, mas a ausência de linguagem e a violência estrutural do latifúndio. Pressione o estudante se ele usar clichês de 'superação pessoal' ou de 'pobreza com dignidade moral'.",
+        "minimumPassScore": 6
+      }
+    },
+    "actionFigureReward": {
+      "figureId": "fig_cadela_baleia_3d",
+      "name": "Action Figure Cadela Baleia",
+      "description": "Miniatura emotiva da cadela Baleia em tom bronzeado, com um olhar expressivo e amável, apoiada sobre um chão rachado de caatinga sob o osso de um preá.",
+      "assetUrl": "/assets/models/cadela-baleia.glb",
+      "thumbnailUrl": "/assets/figures/cadela-baleia-thumb.webp"
+    }
+  }
+]

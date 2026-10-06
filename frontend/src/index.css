@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Georgia", "Cambria", "Times New Roman", serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+
+  --color-wood-800: #2a1e17;
+  --color-wood-900: #1c1613;
+  --color-wood-950: #120d0a;
+
+  --animate-shake: shake 0.45s ease-in-out;
+  --shadow-glow-amber: 0 0 28px rgba(251, 191, 36, 0.45);
+
+  --color-parchment-100: #f4ebd0;
+  --color-parchment-200: #e6d7b0;
+  --color-parchment-300: #d5c292;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-wood-950);
+    color: var(--color-parchment-100);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+        overflow-x: hidden;
+  }
+}
+
+/* Animações e Efeitos Visuais */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-8px); }
+  40% { transform: translateX(8px); }
+  60% { transform: translateX(-5px); }
+  80% { transform: translateX(5px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .animate-shake, .hotspot-active { animation: none; }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 10px rgba(251, 191, 36, 0.4), inset 0 0 10px rgba(251, 191, 36, 0.2);
+    border-color: rgba(252, 211, 77, 0.8);
+  }
+  50% {
+    box-shadow: 0 0 22px rgba(251, 191, 36, 0.9), inset 0 0 15px rgba(251, 191, 36, 0.5);
+    border-color: rgba(254, 240, 138, 1);
+  }
+}
+
+.hotspot-active {
+  animation: pulseGlow 2s infinite ease-in-out;
+}
+
+/* Estilo para imagem quebrada/ausente não estragar o layout */
+img {
+  background-color: #1c1613;
+  color: #d5c292;
+  font-size: 12px;
+  font-style: italic;
+}
+
+/* Scrollbar Customizada */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #1c1613;
+}
+::-webkit-scrollbar-thumb {
+  background: #4a3528;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #78543e;
+}

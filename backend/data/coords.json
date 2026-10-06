@@ -1,0 +1,128 @@
+{
+ "memorias-postumas-de-bras-cubas": {
+  "elem_bras_cubas": [
+   13.5,
+   52,
+   12.5,
+   14
+  ],
+  "elem_emplastro": [
+   6,
+   56.5,
+   4.2,
+   11.5
+  ],
+  "elem_marcela": [
+   50.2,
+   29,
+   11.6,
+   27
+  ],
+  "elem_virgilia": [
+   75.4,
+   40,
+   5.2,
+   19.5
+  ],
+  "elem_quincas_borba": [
+   85.5,
+   39.5,
+   9.5,
+   50.5
+  ],
+  "elem_delirio": [
+   24,
+   6,
+   26.1,
+   37
+  ]
+ },
+ "o-cortico": {
+  "elem_joao_romao": [
+   84,
+   69.5,
+   15.5,
+   14.5
+  ],
+  "elem_bertoleza": [
+   66.5,
+   62,
+   14,
+   28
+  ],
+  "elem_rita_baiana": [
+   41.2,
+   51,
+   13.2,
+   22
+  ],
+  "elem_jeronimo": [
+   14.8,
+   44,
+   13.4,
+   49
+  ],
+  "elem_garrafa_cachaca": [
+   59.4,
+   52,
+   5.8,
+   10
+  ],
+  "elem_visconde_miranda": [
+   14,
+   2,
+   25.5,
+   26
+  ],
+  "elem_incendio": [
+   41.4,
+   1,
+   17.5,
+   21
+  ]
+ },
+ "vidas-secas": {
+  "elem_fabiano": [
+   37,
+   33,
+   10.4,
+   36
+  ],
+  "elem_cadela_baleia": [
+   13.8,
+   69.5,
+   25.2,
+   25.5
+  ],
+  "elem_espingarda": [
+   19.4,
+   37,
+   6.4,
+   26.5
+  ],
+  "elem_sinha_vitoria": [
+   72.5,
+   45,
+   16,
+   45
+  ],
+  "elem_meninos": [
+   57.6,
+   43.5,
+   11.2,
+   12
+  ],
+  "elem_urubus": [
+   78.3,
+   6,
+   14,
+   19
+  ],
+  "elem_festa_cidade": [
+   87,
+   26.2,
+   13,
+   17.2
+  ]
+ }
+}
