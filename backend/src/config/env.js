@@ -25,5 +25,8 @@ if (!parsed.success) {
 
 export const env = {
   ...parsed.data,
-  corsOrigins: parsed.data.CORS_ORIGINS.split(',').map((s) => s.trim()).filter(Boolean),
+  corsOrigins: parsed.data.CORS_ORIGINS
+    .split(',')
+    .map((s) => s.trim().replace(/\/+$/, ''))
+    .filter(Boolean),
 };
