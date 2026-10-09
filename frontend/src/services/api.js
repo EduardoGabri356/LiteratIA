@@ -1,8 +1,13 @@
 // Cliente único da API. Em dev o Vite faz proxy de /api para o backend (vite.config.js);
-// para apontar para outro servidor use VITE_API_URL (ex.: https://meu-backend.com/api/v1).
-const BASE = import.meta.env.VITE_API_URL || '/api/v1';
+// em produção defina VITE_API_URL (ex.: https://meu-backend.vercel.app/api/v1).
+const RAW_BASE = (import.meta.env.VITE_API_URL ?? '').trim() || '/api/v1';
+const BASE = RAW_BASE.replace(/\/+$/, ''); // remove barra final, se houver
 const KEY = 'sessionUuid';
 let memoryUuid;
+
+function buildUrl(path) {
+  return `${BASE}/${String(path).replace(/^\/+/, '')}`; // garante exatamente 1 barra
+}
 
 function makeUuid() {
   if (globalThis.crypto?.randomUUID) return globalThis.crypto.randomUUID();
@@ -37,7 +42,7 @@ export class ApiError extends Error {
 export async function api(method, path, body) {
   let res;
   try {
-    res = await fetch(`${BASE}${path}`, {
+    res = await fetch(buildUrl(path), {
       method,
       headers: { 'Content-Type': 'application/json', 'X-Session-UUID': getSessionUuid() },
       body: body === undefined ? undefined : JSON.stringify(body),
